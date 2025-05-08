@@ -23,8 +23,8 @@
 3. Model Visualisation
 4. Model Evaluation
 
-### 📗 Week 4: Data Storytelling & Portfolio
+### 📗 Week 4: Insights & Portfolio
 
-1. Teknik Storytelling
-2. Cara menyajikan insight
-3. Mempersiapkan Portfolio (GitHub)
+1. Cara menyajikan insight
+2. Mempersiapkan Portfolio (GitHub)
+3. Project

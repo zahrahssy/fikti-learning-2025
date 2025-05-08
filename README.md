@@ -18,14 +18,11 @@ Selamat datang di repository pembelajaran Basic Data Science! Repo ini dirancang
     │   └── README.md
     ├── student_project/
     │   ├── belajar_github/
-    │   │   ├── 000001 - afifa.md
     │   │   └── README.md
     │   └── projects/
     │       ├── sample_project/
     │       │   ├── dataset/
-    │       │   │   └── housing_data.csv
     │       │   ├── notebooks/
-    │       │   │   └── model.ipnyb
     │       │   └── README.md
     │       └── README.md
     ├── .gitignore
@@ -49,7 +46,7 @@ Berisi proyek peserta FIKTI Learning 2025.
     - `sample_project/`: Contoh proyek lengkap yang dapat dijadikan referensi project
         - `dataset/`: Dataset yang akan digunakan
         - `notebook/`: Notebook analisis dan pemodelan
-        - Lihat detail di [`sample_project/README.md`](student_project/sample_project/README.md)
+        - Lihat detail di [`sample_project/README.md`](/student_project/projects/sample_project/README.md)
 - Lihat detail di [`student_project/README.md`](student_project/README.md)
 
 ## 📌 Kontribusi
