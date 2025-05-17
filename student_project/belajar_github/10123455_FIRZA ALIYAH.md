@@ -1,7 +1,7 @@
 Biodata
-* Nama : Hasbiallah Alfarizi
-* Hobi : Diving
-* Makanan kesukaan : Mie goreng
-* Funfact : Ga bisa tidur siang
-* Artis favorit : KANYE
-* Rekomendasi lagu : Mirors
+* Nama : FIRZA ALIYAH
+* Hobi : MAKAN
+* Makanan kesukaan : SEBLAK
+* Funfact : INTROVET
+* Artis favorit : NCT
+* Rekomendasi lagu : MAKE A WISH
