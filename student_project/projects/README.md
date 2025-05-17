@@ -14,12 +14,7 @@ Di dalam repo ini sudah ada contoh struktur project di folder [`sample_project/`
 
 ### 📁 Langkah Buat Folder Project
 1. Masuk ke dalam folder utama project.
-2. Buat folder baru dengan format:
-    ```
-    nim - nama - judul project
-    ```
-
-Contoh: `00001 - Afifa - Analisis Harga Rumah`
+2. Masuk ke dalam folder sesuai dengan nama kelompok `/group<number>`
 
 Di dalam folder tersebut, wajib ada 3 komponen sesuai dengan folder [`sample_project/`](sample_project/) berikut:
 
@@ -31,7 +26,7 @@ Di dalam folder tersebut, wajib ada 3 komponen sesuai dengan folder [`sample_pro
 1. Tambahkan, commit, dan push perubahan kamu:
     ```bash
     git add .
-    git commit -m "nim - nama - judul project"
+    git commit -m "nim - nama - group<number> - perubahan"
     git push origin main 
     ```
 2. Masuk ke GitHub, klik Pull Request → New Pull Request, Pastikan:
@@ -39,7 +34,7 @@ Di dalam folder tersebut, wajib ada 3 komponen sesuai dengan folder [`sample_pro
     - Kanan (compare): repo kamu
 3. Isi judul Pull Request (PR) dengan format:
     ```
-    nim - nama - judul project
+    nim - nama - group<number> - perubahan
     ```
 4. Klik Create Pull Request.
 
