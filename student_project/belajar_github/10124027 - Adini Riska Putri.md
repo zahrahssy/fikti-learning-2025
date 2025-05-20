@@ -5,4 +5,4 @@
 * Makanan Kesukaan : Ayam goreng
 * Funfact : Suka collect stiker
 * Artis favorit : aespa
-* Rekomendasi Lagu : Alla My Poetry - Close Your Eyes
+* Rekomendasi Lagu : Ala My Poetry - Close Your Eyes
